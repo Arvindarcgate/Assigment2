@@ -1,2 +1,2 @@
 
-console.log("Add line 4 with typo);
+console.log("Add line 4 with  typo now changes in that due to step 3 and see changes);
